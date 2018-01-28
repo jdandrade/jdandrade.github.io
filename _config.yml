@@ -1,2 +1,5 @@
-markdown: rdiscount
-rouge: true
+name: João Andrade's blog
+description: Learning to code, 1 day at a time
+url: https://jdandrade.github.io
+markdown: kramdown
+highlighter: rouge
