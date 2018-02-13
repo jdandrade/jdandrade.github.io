@@ -9,16 +9,16 @@ permalink:        pretty
 title:            João Andrade
 tagline:          'Android Developer'
 description:      'Just dev stuff'
-url:              http://hyde.getpoole.com
+url:              http://jdandrade.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'João Andrade'
+  url:            http://jdandrade.github.io
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/jdandrade/jdandrade.github.io
