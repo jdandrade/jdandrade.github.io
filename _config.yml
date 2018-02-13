@@ -1,15 +1,17 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            João Andrade
 tagline:          'Android Developer'
 description:      'An Android Developer's adventures'
 url:              https://github.com/jdandrade
+baseurl:          /
 
 author:
   name:           'João Andrade'
