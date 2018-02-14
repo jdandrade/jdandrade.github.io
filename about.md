@@ -12,4 +12,4 @@ My ultimate goal is to constantly improve my productivity and the quality of my 
 #### What am I writting about?
 From Software development, Engineering, Architecture, Productivity and many other things I feel like I would like to write about.
 
-Thank you for reading this and feel free to contact me @ j_diogo_@hotmail.com
+Thank you for reading this and feel free to contact me @ [j_diogo_@hotmail.com](j_diogo_@hotmail.com)
