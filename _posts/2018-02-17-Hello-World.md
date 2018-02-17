@@ -12,7 +12,7 @@ Hello, this is my first blog post and I would like to run through my background 
 ## Background
 I am 29 years old with a BSc degree in Computer Science Engineering. Born and raise in Lisbon, Portugal, I kinda always had a lack of interest in a specific field of study until I finished the degree. I loved playing video games and that consumed alot of my focus and interest regarding other fields.
 
-Only at the end of my course I have actually started getting into CS and enjoying the joy of comming up with a solution to a problem, designing a system, building it and releasing it to the world.
+Only at the end of my course I have actually started getting into CS and enjoying the satisfaction of coming up with a solution to a problem, designing a system, building it and releasing it to the world.
 
 It was about that time during a Summer that I've started learning Android programming. I started a small Udacity online course with a pet project called Sunshine, which was a simple Weather App. Learned a bit about Android and I really enjoyed the thought of designing an App that would sit in a device that is so personal to people nowadays, much more than a laptop, and that people use it for a mean of 4 hours per day, according to a [comscore](https://www.comscore.com/Insights/Blog/Mobile-Matures-as-the-Cross-Platform-Era-Emerges) report.
 
@@ -26,10 +26,9 @@ Aptoide Lite was my job for nearly one year and, the day I've finished my degree
 
 Since then I've been working and learning with amazing people with different experience levels that helped me alot developing my CS skills and knowledge in a full feature end-to-end product.
 
-At the same time I've joined the vanilla team I have been persuing MSc degree in Computer Engineering, which it has not been easy in terms of time management with a full-time job that I was prioritizing more day after day.
+At the same time I've joined the vanilla team I have been persuing MSc degree in Computer Science Engineering, which it has not been easy in terms of time management with a full-time job that I was prioritizing more day after day.
 
 I believe today, with 2+ year experience in Android development, I consider myself a Junior with a solid base to be able to aid in decision making, design and build a product that meets the quality and functional requirements.
-But lets be honest, 29 year old Junior is not a big achievement, it is just my personal achievement. People younger than me that developed the interest in this field have the time advantage and got to where I am before me. 
 
 ## Goals
 
