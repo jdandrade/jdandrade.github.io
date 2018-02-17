@@ -5,11 +5,11 @@ category: Introduction
 comments: true
 ---
 
-##Intro
+## Intro
 
 Hello, this is my first blog post and I would like to run through my background and explain what did I do to get to where I am today, and maybe try to draw a picture of where I think I am today and what to achieve in the future.
 
-##Background
+## Background
 I am 29 years old with a BSc degree in Computer Science Engineering. Born and raise in Lisbon, Portugal, I kinda always had a lack of interest in a specific field of study until I finished the degree. I loved playing video games and that consumed alot of my focus and interest regarding other fields.
 
 Only at the end of my course I have actually started getting into CS and enjoying the joy of comming up with a solution to a problem, designing a system, building it and releasing it to the world.
@@ -31,7 +31,7 @@ At the same time I've joined the vanilla team I have been persuing MSc degree in
 I believe today, with 2+ year experience in Android development, I consider myself a Junior with a solid base to be able to aid in decision making, design and build a product that meets the quality and functional requirements.
 But lets be honest, 29 year old Junior is not a big achievement, it is just my personal achievement. People younger than me that developed the interest in this field have the time advantage and got to where I am before me. 
 
-##Goals
+## Goals
 
 My goals are to improve my skills in the best way I can, follow good industry practices by reading and following brilliant minds like Uncle Bob and Martin Fowler, be connected to the dev community and follow the trends of software development. 
 
