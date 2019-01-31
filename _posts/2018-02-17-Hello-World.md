@@ -10,7 +10,7 @@ comments: true
 Hello, this is my first blog post and I would like to run through my background and explain what did I do to get to where I am today, and maybe try to draw a picture of where I think I am today and what to achieve in the future.
 
 ## Background
-I am 30 years old with a BSc degree in Computer Science Engineering. Born and raise in Lisbon, Portugal, I kinda always had a lack of interest in a specific field of study until I finished the degree. I loved playing video games and that consumed alot of my focus and interest regarding other fields.
+I am 30 years old with a BSc degree in Computer Science Engineering. Born and raised in Lisbon, Portugal, I kinda always had a lack of interest in a specific field of study until I finished the degree. I loved playing video games and that consumed alot of my focus and interest regarding other fields.
 
 Only at the end of my course I have actually started getting into CS and enjoying the satisfaction of coming up with a solution to a problem, designing a system, building it and releasing it to the world.
 
