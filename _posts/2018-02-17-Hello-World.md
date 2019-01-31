@@ -16,7 +16,7 @@ Only at the end of my course I have actually started getting into CS and enjoyin
 
 It was about that time during a Summer that I've started learning Android programming. I started a small Udacity online course with a pet project called Sunshine, which was a simple Weather App. Learned a bit about Android and I really enjoyed the thought of designing an App that would sit in a device that is so personal to people nowadays, much more than a laptop, and that people use it for a mean of 4 hours per day, according to a [comscore](https://www.comscore.com/Insights/Blog/Mobile-Matures-as-the-Cross-Platform-Era-Emerges) report.
 
-At the same time Android development awoken my curiosity for mobile development, I've applied to a summer internship at [Aptoide](www.aptoide.com), a community driven alternative App Store with a global userbase of 2M DAU, which was based in Portugal and near my university, which came up really handy at the beggining while finishing my BSc degree.
+At the same time Android development awoken my curiosity for mobile development, I've applied to a summer internship at [Aptoide](https://www.aptoide.com/), a community driven alternative App Store with a global userbase of 2M DAU, which was based in Portugal and near my university, which came up really handy at the beggining while finishing my BSc degree.
 Aptoide was huge to me and I never imagined landing the internship and working directly on what I was getting interest into, Android development. 
 
 My internship project was developing the concept of a diet Aptoide, with minimal features and, more importantly, minimal storage and bandwith usage. That project was Aptoide Lite.
