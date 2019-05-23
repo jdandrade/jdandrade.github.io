@@ -433,6 +433,13 @@
       "id": 62,
       "name": "Jungle Wurm",
       "pdt": "07:15:00"
+    },
+    {
+      "cet": "16:30:00",
+      "edt": "10:30:00",
+      "id": 63,
+      "name": "Megadestroyer",
+      "pdt": "07:30:00"
     }
   ]
 }
