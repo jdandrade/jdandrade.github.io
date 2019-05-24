@@ -426,6 +426,13 @@
       "id": 61,
       "name": "Taidha Covington",
       "pdt": "07:00:00"
+    },
+    {
+      "cet": "16:15:00",
+      "edt": "10:15:00",
+      "id": 62,
+      "name": "Jungle Wurm",
+      "pdt": "07:15:00"
     }
   ]
 }
