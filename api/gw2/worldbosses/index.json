@@ -419,6 +419,13 @@
       "id": 60,
       "name": "Shadow Behemoth",
       "pdt": "06:45:00"
+    },
+    {
+      "cet": "16:00:00",
+      "edt": "10:00:00",
+      "id": 61,
+      "name": "Taidha Covington",
+      "pdt": "07:00:00"
     }
   ]
 }
