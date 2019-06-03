@@ -391,6 +391,13 @@
       "id": 56,
       "name": "Fire Elemental",
       "pdt": "05:45:00"
+    },
+    {
+      "cet": "15:00:00",
+      "edt": "09:00:00",
+      "id": 57,
+      "name": "Golem Mark II",
+      "pdt": "06:00:00"
     }
   ]
 }
