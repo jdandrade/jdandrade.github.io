@@ -335,6 +335,13 @@
       "id": 48,
       "name": "Fire Elemental",
       "pdt": "03:45:00"
+    },
+    {
+      "cet": "13:00:00",
+      "edt": "07:00:00",
+      "id": 49,
+      "name": "The Shatterer",
+      "pdt": "04:00:00"
     }
   ]
 }
