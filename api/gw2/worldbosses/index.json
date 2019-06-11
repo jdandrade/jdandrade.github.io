@@ -363,6 +363,13 @@
       "id": 52,
       "name": "Shadow Behemoth",
       "pdt": "04:45:00"
+    },
+    {
+      "cet": "14:00:00",
+      "edt": "08:00:00",
+      "id": 53,
+      "name": "Modniir Ulgoth",
+      "pdt": "05:00:00"
     }
   ]
 }
