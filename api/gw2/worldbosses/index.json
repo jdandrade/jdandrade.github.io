@@ -475,6 +475,13 @@
       "id": 68,
       "name": "Shadow Behemoth",
       "pdt": "08:45:00"
+    },
+    {
+      "cet": "18:00:00",
+      "edt": "12:00:00",
+      "id": 69,
+      "name": "Karka Queen",
+      "pdt": "09:00:00"
     }
   ]
 }
