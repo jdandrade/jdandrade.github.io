@@ -489,6 +489,13 @@
       "id": 70,
       "name": "Svanir Shaman",
       "pdt": "09:15:00"
+    },
+    {
+      "cet": "18:30:00",
+      "edt": "12:30:00",
+      "id": 71,
+      "name": "Modniir Ulgoth",
+      "pdt": "09:30:00"
     }
   ]
 }
