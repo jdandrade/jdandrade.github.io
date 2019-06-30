@@ -496,6 +496,13 @@
       "id": 71,
       "name": "Modniir Ulgoth",
       "pdt": "09:30:00"
+    },
+    {
+      "cet": "18:45:00",
+      "edt": "12:45:00",
+      "id": 72,
+      "name": "Fire Elemental",
+      "pdt": "09:45:00"
     }
   ]
 }
