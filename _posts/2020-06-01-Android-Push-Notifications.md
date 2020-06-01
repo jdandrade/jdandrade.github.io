@@ -13,9 +13,9 @@ Push notification is the ability to push newly available information to a client
 
 There is an Android Transport Layer (Plaform-level message transport) which routes information delivered to the target device and handles it. This is provided by Google Play Services.
 
-This channel is currently always open on GMS-devices and is basically a BUS for push notifications. Google apps like Gmail and Calendar use this service for push sync. The fact that there are already apps in your phone using this service means that you can freely integrate Google's push service with almost no impact on device performance. The integration is currently done with Firebase Clouse Messaging - FCM (GCM is deprecated) and it basically looks like this: [Firebase CM Architecture](https://firebase.google.com/docs/cloud-messaging/images/diagram-FCM.png)
+This channel is currently always open on GMS-devices and is basically a BUS for push notifications. Google apps like Gmail and Calendar use this service for push sync. The fact that there are already apps in your phone using this service means that you can freely integrate Google's push service with almost no impact on device performance. The integration is currently done with Firebase Clouse Messaging - FCM (GCM is deprecated) and it basically looks like this: 
 
-![Push%20Notifications%20for%20Android%2021d53b37333445c999985079305d611b/Untitled.png](Push%20Notifications%20for%20Android%2021d53b37333445c999985079305d611b/Untitled.png)
+![](images/firebase-arch.png)
 
 From Firebase Clouse Messaging architecture documentation.
 
