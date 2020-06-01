@@ -15,7 +15,7 @@ There is an Android Transport Layer (Plaform-level message transport) which rout
 
 This channel is currently always open on GMS-devices and is basically a BUS for push notifications. Google apps like Gmail and Calendar use this service for push sync. The fact that there are already apps in your phone using this service means that you can freely integrate Google's push service with almost no impact on device performance. The integration is currently done with Firebase Clouse Messaging - FCM (GCM is deprecated) and it basically looks like this: 
 
-![](/assets/images/firebase-arch.png)
+![](/assets/images/firebase-arch.png =600x330)
 
 From Firebase Clouse Messaging architecture documentation.
 
