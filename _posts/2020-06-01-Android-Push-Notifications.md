@@ -5,9 +5,9 @@ category: Introduction
 comments: true
 ---
 
-# Push Notifications for Android
+# Push Notifications
 
-Push notification is the ability to push newly available information to a client without the client having to poll for information, therefore potentially saving resources like CPU & Battery and achieving real-time messaging.
+A Push notification is the ability to push newly available information to a client without the client having to poll for information, therefore potentially saving resources like CPU & Battery and achieving real-time messaging.
 
 ## Android
 
@@ -57,7 +57,7 @@ App deals well with push notifications in a Pixel 3 with both app process alive 
 
 Pushy does have a fallback delivery method using FCM for improved reliability, which implies it has issues in certain environments.
 
-### JPush (China)
+### JPush
 
 Jpush ([https://www.jpush.cn/](https://www.jpush.cn/)) is a third-party push system that operates in China. [https://docs.jiguang.cn/en/jpush/client/Android/android_sdk/](https://docs.jiguang.cn/en/jpush/client/Android/android_sdk/), They say they have 600M push notifications being sent every day and this is a solution to solve the market gap that Google being blocked in China left open.
 
